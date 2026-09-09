@@ -1,7 +1,7 @@
-````markdown id="64182"
+````markdown
 # 👋 Hi, I'm Bidhya Sulu
 
-### 💻 Full-Stack Developer | 🤖 AI/ML Enthusiast | 🚀 Technology Explorer
+### `Computer Science Student` • `Full-Stack Developer` • `AI/ML Explorer`
 
 <p align="left">
   <a href="https://github.com/BidhyaSulu13">
@@ -14,111 +14,150 @@
 
 ---
 
-## 🌱 About Me
+## 🌌 Welcome to my corner of the internet
 
-Hi! I'm **Bidhya Sulu**, a Computer Science student currently pursuing my **Bachelor's degree at Khwopa Engineering College**.
+I'm **Bidhya Sulu**, a Computer Science student pursuing my Bachelor's degree at **Khwopa Engineering College**.
 
-I enjoy turning ideas into working applications and exploring how technology can solve real-world problems.
+I enjoy building things, experimenting with new technologies, and learning by solving real problems.
 
-My main interests are **Full-Stack Web Development, Artificial Intelligence, Machine Learning, LLMs, Multi-Agent Systems, Cloud Computing, and emerging technologies**.
+My main interests are **Full-Stack Web Development, AI/ML, LLMs, Multi-Agent Systems, Cloud Computing, Databases, and emerging technologies**.
 
-I enjoy the process of building things — from designing a frontend and connecting a backend, to debugging challenging problems and learning how everything works together.
-
-- 🎓 Bachelor's student at **Khwopa Engineering College**
-- 💻 Interested in **Full-Stack Web Development**
-- 🤖 Exploring **AI/ML, LLMs & Multi-Agent Systems**
-- 🧠 Working with **LangGraph**
-- ☁️ Learning **Cloud Computing, Docker & Kubernetes**
-- 🗄️ Working with **SQL & NoSQL databases**
-- 🔐 Interested in **Cybersecurity & Authentication**
-- ⚛️ Exploring **Quantum Computing & Quantum Machine Learning**
-- 🛠️ Always learning, building, debugging, and improving
+I'm especially interested in the space where **web development and AI come together** to create useful and practical applications.
 
 ---
 
-# 💻 Tech Stack
+## 🧑‍💻 About Me
 
-## 👨‍💻 Programming Languages
+```text
+🎓  Bachelor's Student at Khwopa Engineering College
+💻  Full-Stack Web Developer
+🐍  Python Developer
+🤖  AI / ML Explorer
+🧠  Interested in LLMs & Multi-Agent Systems
+🌐  Interested in modern web technologies
+🗄️  Working with SQL & NoSQL databases
+☁️  Exploring Cloud & DevOps
+⚛️  Exploring Quantum Computing
+🚀  Learning by building
+````
+
+* 🎓 Pursuing my Bachelor's degree at **Khwopa Engineering College**
+* 💻 Building applications with **Django, React, Python and JavaScript**
+* 🤖 Exploring **AI, ML, Generative AI and LLM applications**
+* 🧠 Working with **LangGraph and Multi-Agent Systems**
+* 🗄️ Working with **PostgreSQL, SQLite, MongoDB and Cassandra**
+* 🎨 Enjoy creating clean and interactive user interfaces
+* 🔐 Interested in authentication and secure application development
+* ☁️ Exploring **AWS, Docker, Kubernetes, Serverless and Microservices**
+* ⚛️ Exploring **Quantum Computing and Quantum Machine Learning**
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Languages
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" />
 </p>
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+`Python` `C++` `JavaScript` `SQL`
 
 ---
 
-## 🌐 Web Development
-
-### 🎨 Frontend
+### 🌐 Web Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css,js" />
+<img src="https://skillicons.dev/icons?i=django,react,vite,tailwind" />
 </p>
 
-- React.js
-- JavaScript
-- HTML5
-- CSS3
-- Tailwind CSS
-- Vite
-- React Router
-- Responsive Web Design
-- Component-Based Development
-- Interactive UI Development
-- Forms & Validation
+`Django` `React` `Vite` `Tailwind CSS` `HTML` `CSS` `JavaScript`
 
-### ⚙️ Backend
+---
+
+### 🗄️ Databases
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,django" />
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb" />
 </p>
 
-- Django
-- Python
-- Django ORM
-- CRUD Applications
-- Authentication
-- Session Management
-- Form Handling
-- API Integration
-- CSRF Protection
-- Backend Validation
-- Static & Media Files
+`PostgreSQL` `SQLite` `MongoDB` `Cassandra` `Django ORM`
 
 ---
 
-# 🤖 AI / Machine Learning
+### 🤖 AI / Machine Learning
 
-I'm interested in building practical applications using **AI and modern LLM technologies**.
-
-### 🧠 Areas of Interest
-
-- Artificial Intelligence
-- Machine Learning
-- Generative AI
-- Large Language Models (LLMs)
-- Prompt Engineering
-- AI-powered Applications
-- Natural Language Processing
-- Text Analysis
-- Automated Summarization
-- Information Retrieval
+* Artificial Intelligence
+* Machine Learning
+* Generative AI
+* Large Language Models
+* Prompt Engineering
+* Natural Language Processing
+* AI Agents
+* Multi-Agent Systems
+* Information Retrieval
+* Automated Summarization
 
 ---
 
-## 🧩 Multi-Agent AI
+### 🧩 AI Tools & Frameworks
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python" />
 <img src="https://img.shields.io/badge/LangGraph-1C1C1C?style=for-the-badge&logoColor=white" />
 </p>
 
-I'm exploring systems where multiple specialized AI agents collaborate to solve complex tasks.
+`LangGraph` `LLM Workflows` `AI Agents` `Multi-Agent Architecture`
 
-### 🔬 Current FYP Project
+---
 
-**Multi-Agent AI Research Paper Summarization & Verification Platform**
+### ☁️ Cloud & DevOps
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes" />
+</p>
+
+`AWS` `Amazon S3` `Docker` `Kubernetes` `Microservices` `Serverless`
+
+---
+
+### 📊 Data & Visualization
+
+`Tableau` `Data Visualization` `Statistical Analysis` `Simulation`
+
+---
+
+# 🧠 How I Like to Build
+
+```text
+        💡 IDEA
+           ↓
+       🔍 EXPLORE
+           ↓
+      🧪 EXPERIMENT
+           ↓
+         💻 BUILD
+           ↓
+         🐛 BREAK
+           ↓
+         🔧 FIX
+           ↓
+        🚀 SHIP
+           ↓
+        🔁 REPEAT
+```
+
+I believe the best way to learn is to actually build.
+
+Sometimes a project starts with a simple idea, turns into a lot of errors, and eventually becomes something that teaches me more than any tutorial could.
+
+---
+
+# 🤖 Current FYP
+
+## 🔬 Multi-Agent AI Research Paper Summarization & Verification Platform
+
+A research-focused platform that explores how multiple specialized AI agents can collaborate to help with academic research.
 
 ```text
 📄 Research Paper
@@ -136,194 +175,64 @@ I'm exploring systems where multiple specialized AI agents collaborate to solve 
 🧩 Synthesis
         ↓
 💡 Research Assistance
-````
+```
 
 ---
 
-# 🗄️ Databases
+# 🚀 Projects
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb" />
-</p>
+### 🧠 Multi-Agent AI Research Platform
 
-### SQL / Relational
+`Python` • `LangGraph` • `LLMs` • `Multi-Agent Systems`
 
-* PostgreSQL
-* SQLite
-* SQL
-* Django ORM
-* Database Design
-* Database Relationships
-* Migrations
-* CRUD Operations
-
-### NoSQL
-
-* MongoDB
-* Cassandra
-* NoSQL Concepts
-* Distributed Databases
+An AI-powered research platform for retrieving, analyzing, summarizing, verifying and synthesizing academic papers.
 
 ---
 
-# ☁️ Cloud & DevOps
+### 🛍️ Flawless Aura
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes" />
-</p>
+`Django` • `Python` • `HTML` • `CSS` • `JavaScript`
 
-### ☁️ Cloud
-
-* AWS
-* Amazon S3
-* Cloud Computing
-* IaaS
-* PaaS
-* SaaS
-* Serverless Architecture
-* Edge Computing
-* Fog Computing
-
-### ⚙️ DevOps
-
-* Docker
-* Kubernetes
-* Microservices
-* Cloud-Native Architecture
-* CI/CD Concepts
-* Deployment Fundamentals
-* Environment Configuration
-
----
-
-# 🔐 Security & Authentication
-
-* User Authentication
-* Login & Registration
-* Session Management
-* Google Sign-In / OAuth Concepts
-* CSRF Protection
-* Access Control
-* IAM
-* Secure Form Handling
-
-### 🔐 Quantum Security
-
-* Quantum Cryptography
-* BB84 Protocol
-* Quantum Communication
-* Quantum Teleportation
-* Quantum Error Correction
-
----
-
-# ⚛️ Quantum Computing
-
-I'm also exploring the fundamentals of quantum computing and its applications.
-
-* Quantum Computing
-* Quantum Programming
-* Quantum Simulation
-* Quantum Algorithms
-* Quantum Machine Learning
-* Quantum Error Correction
-* Quantum Cryptography
-* Shor's Algorithm
-* Grover's Algorithm
-* Quantum Phase Estimation
-* Period Finding
-* BB84 Protocol
-* Bit-Flip Error Correction
-* Phase-Flip Error Correction
-
----
-
-# 📊 Data & Simulation
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)
-
-* Data Visualization
-* Tableau
-* Statistical Analysis
-* Random Number Generation
-* Statistical Testing
-* Queueing System Simulation
-* Discrete-Event Simulation
-* Verification & Validation
-
----
-
-# 🛠️ Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=vscode,git,github,powershell,npm" />
-</p>
-
-* Visual Studio Code
-* Git
-* GitHub
-* PowerShell
-* npm
-* Python Virtual Environments
-* LaTeX
-
----
-
-# 🚀 Featured Projects
-
-## 🧠 Multi-Agent AI Research Paper Summarizer
-
-**Python • LangGraph • LLMs • Multi-Agent Systems**
-
-An AI-powered research assistant designed to retrieve, analyze, summarize, verify, critique, and synthesize academic research papers.
-
----
-
-## 🛍️ Flawless Aura
-
-**Django • Python • SQLite/PostgreSQL • HTML • CSS • JavaScript**
-
-A skincare e-commerce platform featuring:
+A skincare e-commerce application featuring:
 
 * 🛒 Shopping Cart
 * 💰 Discounted Products
 * 📦 Checkout & Orders
 * 🔐 User Authentication
 * 💳 Payment Integration
-* 🖼️ Product Images
-* 🗄️ Database Management
-
----
-
-## 👨‍💼 Employee Record Management System
-
-**Django • Python • Database**
-
-A web application for managing employee information, including:
-
-* Employee Details
-* Education Records
-* Experience Records
-* CRUD Operations
-* Database Relationships
-
----
-
-## 🎓 Student Management System
-
-**Django • Python • HTML • CSS • JavaScript**
-
-A student-focused management system featuring:
-
-* 🔐 Authentication
-* 👨‍🎓 Student Management
+* 🖼️ Product Management
 * 🗄️ Database Integration
-* ✏️ CRUD Operations
-* 📱 Responsive Interface
+
+---
+
+### 👨‍💼 Employee Record Management System
+
+`Django` • `Python` • `Database`
+
+A web application for managing employee information, education and experience records.
+
+---
+
+### 🎓 Student Management System
+
+`Django` • `Python` • `HTML` • `CSS` • `JavaScript`
+
+A student-focused management system with authentication, database integration and CRUD functionality.
+
+---
+
+# ⚛️ Exploring
+
+```text
+Quantum Computing
+Quantum Machine Learning
+Quantum Cryptography
+BB84 Protocol
+Quantum Algorithms
+Cloud Computing
+Distributed Systems
+Cybersecurity
+```
 
 ---
 
@@ -340,26 +249,8 @@ A student-focused management system featuring:
                 ↓
       Advanced Databases
                 ↓
-       Quantum Computing
+       Emerging Technologies
 ```
-
----
-
-# 🎯 Areas of Interest
-
-<p align="center">
-
-💻 Full-Stack Development   •  
-🤖 AI/ML   •  
-🧠 LLMs   •  
-🔗 Multi-Agent Systems
-
-☁️ Cloud Computing   •  
-⚙️ DevOps   •  
-🔐 Cybersecurity   •  
-⚛️ Quantum Computing
-
-</p>
 
 ---
 
@@ -367,31 +258,19 @@ A student-focused management system featuring:
 
 > **Build it. Break it. Understand it. Improve it.**
 
-I believe the best way to learn technology is by actually building with it.
+I don't believe you need to know everything before starting.
 
-Every bug is something to understand, every project is an opportunity to improve, and every new technology is another chance to learn.
+Start with an idea.
 
----
+Build something.
 
-# 📈 GitHub Stats
+Make mistakes.
 
-<p align="center">
+Debug them.
 
-<img src="https://github-readme-stats.vercel.app/api?username=BidhyaSulu13&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+Learn.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BidhyaSulu13&layout=compact&theme=tokyonight&hide_border=true" width="41%" />
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=BidhyaSulu13&theme=tokyonight&hide_border=true" />
-
-</p>
+Then make it better.
 
 ---
 
@@ -400,11 +279,11 @@ Every bug is something to understand, every project is an opportunity to improve
 <p align="left">
 
 <a href="https://github.com/BidhyaSulu13">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-BidhyaSulu13-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="mailto:sulubidhya@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-sulubidhya%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </p>
@@ -413,9 +292,7 @@ Every bug is something to understand, every project is an opportunity to improve
 
 <p align="center">
 
-### 🌟 Thanks for visiting my profile!
-
-**Let's build something meaningful with technology. 🚀**
+### 🚀 BUILD • LEARN • EXPERIMENT • REPEAT
 
 </p>
 ```
