@@ -1,4 +1,3 @@
-````markdown id="j3k8p4"
 <div align="center">
 
 # 👋 Hi, I'm Bidhya Sulu
@@ -25,9 +24,9 @@
 
 I like building things, experimenting with ideas, and figuring out why something doesn't work until it finally does.
 
-I'm a **Computer Science student at Khwopa Engineering College**, and most of my interests sit somewhere between **software development, AI, and building things that are actually useful and nice to use**.
+I'm a Computer Science student at **Khwopa Engineering College**, and most of my interests sit somewhere between software development, AI, and building things that are actually useful and nice to use.
 
-I've worked with full-stack technologies like **React, Vite, Django, Python, JavaScript, PostgreSQL, SQLite, MongoDB, and Tailwind CSS**, and lately I've been spending more time exploring **Machine Learning, LLM applications, LangGraph, AI agents, and multi-agent systems**.
+I've worked with full-stack tools like **React, Vite, Django, PostgreSQL, SQLite, MongoDB, and Tailwind CSS**, and lately I've been spending more time on **Machine Learning, LLM applications, LangGraph, AI agents, and multi-agent systems**.
 
 I also care about the other side of software — how it looks, how it feels, and how people actually interact with it.
 
@@ -43,18 +42,16 @@ I also care about the other side of software — how it looks, how it feels, and
 🎨  UI/UX & Creative Technology Enthusiast
 🧠  Curious by default
 🚀  Always experimenting with something
-````
+```
 
 * 🎓 Pursuing my Bachelor's degree at **Khwopa Engineering College**
-* 💻 Build full-stack web applications
+* 💻 Build full-stack web applications with Django and React
 * 🤖 Exploring AI, ML, LLMs, Generative AI, and AI agents
-* 🌐 Work mainly with **Django, React, JavaScript, HTML, CSS, and Tailwind**
-* 🗄️ Work with both **SQL and NoSQL databases**
+* 🗄️ Work with both SQL and NoSQL databases
 * 🎨 Interested in clean UI/UX and interactive interfaces
 * ☁️ Exploring cloud computing and DevOps
 * ⚛️ Exploring quantum computing and quantum machine learning
 * 🧠 I learn best by building things, not just reading about them
-* 🚀 Usually have a new project or idea I'm experimenting with
 
 ---
 
@@ -71,8 +68,6 @@ I also care about the other side of software — how it looks, how it feels, and
 <img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />
 </p>
 
----
-
 ## 🌐 Building for the Web
 
 <p>
@@ -82,10 +77,6 @@ I also care about the other side of software — how it looks, how it feels, and
 <img src="https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=44B78B" />
 </p>
 
-`React` `Vite` `Tailwind CSS` `Django` `JavaScript` `HTML` `CSS`
-
----
-
 ## 🗄️ Data & Databases
 
 <p>
@@ -94,9 +85,7 @@ I also care about the other side of software — how it looks, how it feels, and
 <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248" />
 </p>
 
-`PostgreSQL` `SQLite` `MongoDB` `Cassandra` `SQL` `Django ORM`
-
----
+`Cassandra` `Django ORM`
 
 ## 🤖 AI & Machine Learning
 
@@ -113,11 +102,9 @@ Mostly interested in:
 * 🤖 Generative AI
 * 🔎 Information retrieval
 * 🕸️ Multi-agent systems
-* 🧩 AI agents
-* 🔗 Agent orchestration
+* 🧩 AI agents & agent orchestration
 * 📚 AI-powered research tools
-* 📝 Automated summarization
-* 🔍 Research verification
+* 📝 Automated summarization & research verification
 
 ---
 
@@ -132,7 +119,7 @@ Mostly interested in:
 <img src="https://img.shields.io/badge/LaTeX-0d1117?style=for-the-badge&logo=latex&logoColor=008080" />
 </p>
 
-Most of my day-to-day happens around **Git, GitHub, VS Code, Python, JavaScript, Django, React, and the usual web development stack.**
+Most of my day-to-day happens around Git, GitHub, VS Code, Python, JavaScript, Django, React, and the usual web development stack.
 
 ---
 
@@ -145,29 +132,17 @@ Most of my day-to-day happens around **Git, GitHub, VS Code, Python, JavaScript,
 <img src="https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5" />
 </p>
 
-`AWS` `Amazon S3` `Docker` `Kubernetes` `Microservices` `Serverless` `Cloud-Native`
+`Microservices` `Serverless` `Cloud-Native`
 
 ---
 
-# 🔐 Security & Emerging Technologies
+# 🔐 Security & ⚛️ Quantum Computing
 
-### Security
+**Security:** `Authentication` `OAuth` `Google Sign-In` `Session Management` `CSRF Protection` `IAM`
 
-`Authentication` `OAuth` `Google Sign-In` `Session Management` `CSRF Protection` `IAM`
+**Quantum Computing:** `Quantum Computing` `Quantum Machine Learning` `Quantum Cryptography`
 
-### ⚛️ Quantum Computing
-
-`Quantum Computing` `Quantum Machine Learning` `Quantum Cryptography`
-
-Also exploring:
-
-* 🔹 BB84 Protocol
-* 🔹 Quantum Teleportation
-* 🔹 Quantum Error Correction
-* 🔹 Shor's Algorithm
-* 🔹 Grover's Algorithm
-* 🔹 Quantum Phase Estimation
-* 🔹 Period Finding
+Also exploring: BB84 Protocol • Quantum Teleportation • Quantum Error Correction • Shor's Algorithm • Grover's Algorithm • Quantum Phase Estimation • Period Finding
 
 ---
 
@@ -202,9 +177,7 @@ Also exploring:
 
 </div>
 
-I don't usually start with a perfect plan.
-
-Most of the time it's just:
+I don't usually start with a perfect plan. Most of the time it's just:
 
 > **"What happens if I try this?"**
 
@@ -217,51 +190,18 @@ That's usually where the fun starts.
 <div align="center">
 
 ### `AI AGENTS`
-
 ⬇️
-
 ### `LLM APPLICATIONS`
-
 ⬇️
-
 ### `LANGGRAPH`
-
 ⬇️
-
 ### `RESEARCH AUTOMATION`
-
 ⬇️
-
 ### `MULTI-AGENT SYSTEMS`
 
 </div>
 
-I'm mainly interested in AI systems that can **retrieve information, reason, use tools, analyze information, and work with other agents** instead of simply generating one response and stopping there.
-
----
-
-# 🚀 What I Like Building
-
-Somewhere around:
-
-<div align="center">
-
-### `TECHNOLOGY × CREATIVITY × PRACTICALITY`
-
-</div>
-
-Could be:
-
-* 🌐 A full-stack web app
-* 🤖 An AI-powered tool
-* 🧠 An experimental agent system
-* 🎨 A clean and interactive interface
-* 📊 A data-driven application
-* 🛍️ An e-commerce platform
-* 🔐 An authentication system
-* 🧪 A random idea I just wanted to see working
-
-Doesn't need to be huge — a small project can teach more than a big plan that never leaves the whiteboard.
+I'm mainly interested in AI systems that can retrieve information, reason, use tools, analyze information, and work with other agents — instead of simply generating one response and stopping there.
 
 ---
 
@@ -301,19 +241,14 @@ A research-focused platform exploring how multiple specialized AI agents can wor
 # 💻 Some Things I've Built
 
 ### 🧠 Multi-Agent AI Research Platform
-
 `Python` `LangGraph` `LLMs` `Multi-Agent Systems`
 
 An AI-powered research platform focused on retrieving, analyzing, summarizing, verifying and synthesizing academic research papers.
 
----
-
 ### 🛍️ Flawless Aura
-
 `Django` `Python` `HTML` `CSS` `JavaScript`
 
 A skincare e-commerce application featuring:
-
 * 🛒 Shopping Cart
 * 💰 Discounted Products
 * 📦 Checkout & Orders
@@ -322,18 +257,12 @@ A skincare e-commerce application featuring:
 * 🖼️ Product Management
 * 🗄️ Database Integration
 
----
-
 ### 👨‍💼 Employee Record Management System
-
 `Django` `Python` `SQLite/PostgreSQL`
 
 A web application for managing employee details, education records, and experience records.
 
----
-
 ### 🎓 Student Management System
-
 `Django` `Python` `HTML` `CSS` `JavaScript`
 
 A student-focused web application with authentication, database integration, and CRUD functionality.
@@ -367,21 +296,13 @@ DATA                 BUILDING          EXPERIMENTS
 
 </div>
 
-Still figuring out exactly where all this leads.
-
-Honestly, that's part of the fun.
+Still figuring out exactly where all this leads. Honestly, that's part of the fun.
 
 ---
 
 # 👀 What's Next?
 
-**More building.**
-
-**More experimenting.**
-
-**More AI.**
-
-**More learning.**
+**More building. More experimenting. More AI. More learning.**
 
 **More projects that start as an idea and somehow turn into something real.**
 
@@ -406,4 +327,3 @@ And hopefully a lot of things I can look back on and think:
 **Built with curiosity • powered by caffeine • occasionally fixed by Stack Overflow ☕**
 
 </div>
-```
