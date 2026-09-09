@@ -1,4 +1,4 @@
-````markdown
+````markdown id="j3k8p4"
 <div align="center">
 
 # 👋 Hi, I'm Bidhya Sulu
@@ -23,40 +23,38 @@
 
 </div>
 
-I'm **Bidhya Sulu**, a Computer Science student pursuing my **Bachelor's degree at Khwopa Engineering College**.
-
 I like building things, experimenting with ideas, and figuring out why something doesn't work until it finally does.
 
-Most of my interests sit somewhere between **web development, AI, databases, and emerging technologies**. I've worked on full-stack applications using **Django, React, Python, JavaScript, PostgreSQL, SQLite, MongoDB, and Tailwind CSS**, and lately I've been exploring **LLMs, LangGraph, AI agents, and multi-agent systems**.
+I'm a **Computer Science student at Khwopa Engineering College**, and most of my interests sit somewhere between **software development, AI, and building things that are actually useful and nice to use**.
 
-I also enjoy the creative side of development — how an application looks, how it feels, and how people interact with it.
+I've worked with full-stack technologies like **React, Vite, Django, Python, JavaScript, PostgreSQL, SQLite, MongoDB, and Tailwind CSS**, and lately I've been spending more time exploring **Machine Learning, LLM applications, LangGraph, AI agents, and multi-agent systems**.
+
+I also care about the other side of software — how it looks, how it feels, and how people actually interact with it.
 
 ---
 
 # 🧑‍💻 A Little About Me
 
 ```text
-🎓 Computer Science Student
-💻 Full-Stack Developer
-🐍 Python Developer
-🤖 AI / ML Explorer
-🧠 LLM & Multi-Agent Systems Enthusiast
-🎨 UI/UX Interested
-🗄️ SQL & NoSQL
-☁️ Cloud & DevOps Explorer
-⚛️ Quantum Computing Explorer
-🚀 Always Building Something
+🎓  Computer Science Student
+💻  Full-Stack Developer
+🐍  Python Developer
+🤖  AI / ML Explorer
+🎨  UI/UX & Creative Technology Enthusiast
+🧠  Curious by default
+🚀  Always experimenting with something
 ````
 
-* 🎓 Studying for my Bachelor's degree at **Khwopa Engineering College**
-* 💻 Building full-stack web applications
-* 🤖 Exploring **AI, ML, LLMs, Generative AI and AI Agents**
-* 🧠 Working with **LangGraph and multi-agent workflows**
-* 🎨 Interested in clean and interactive UI/UX
-* 🗄️ Working with both relational and NoSQL databases
-* ☁️ Exploring **AWS, Docker, Kubernetes and cloud-native technologies**
-* ⚛️ Exploring **Quantum Computing, QML and Quantum Cryptography**
-* 🧠 I learn best by actually building things
+* 🎓 Pursuing my Bachelor's degree at **Khwopa Engineering College**
+* 💻 Build full-stack web applications
+* 🤖 Exploring AI, ML, LLMs, Generative AI, and AI agents
+* 🌐 Work mainly with **Django, React, JavaScript, HTML, CSS, and Tailwind**
+* 🗄️ Work with both **SQL and NoSQL databases**
+* 🎨 Interested in clean UI/UX and interactive interfaces
+* ☁️ Exploring cloud computing and DevOps
+* ⚛️ Exploring quantum computing and quantum machine learning
+* 🧠 I learn best by building things, not just reading about them
+* 🚀 Usually have a new project or idea I'm experimenting with
 
 ---
 
@@ -84,7 +82,7 @@ I also enjoy the creative side of development — how an application looks, how 
 <img src="https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=44B78B" />
 </p>
 
-`React` `Tailwind CSS` `Vite` `Django` `JavaScript` `HTML` `CSS`
+`React` `Vite` `Tailwind CSS` `Django` `JavaScript` `HTML` `CSS`
 
 ---
 
@@ -111,15 +109,15 @@ I also enjoy the creative side of development — how an application looks, how 
 
 Mostly interested in:
 
-* 🧠 Large Language Model applications
+* 🧠 Large language model applications
 * 🤖 Generative AI
-* 🕸️ Multi-agent systems
-* 🔗 AI agents
-* 📚 AI-powered research tools
 * 🔎 Information retrieval
+* 🕸️ Multi-agent systems
+* 🧩 AI agents
+* 🔗 Agent orchestration
+* 📚 AI-powered research tools
 * 📝 Automated summarization
 * 🔍 Research verification
-* 🧩 Agent orchestration
 
 ---
 
@@ -163,13 +161,13 @@ Most of my day-to-day happens around **Git, GitHub, VS Code, Python, JavaScript,
 
 Also exploring:
 
-* BB84 Protocol
-* Quantum Teleportation
-* Quantum Error Correction
-* Shor's Algorithm
-* Grover's Algorithm
-* Quantum Phase Estimation
-* Period Finding
+* 🔹 BB84 Protocol
+* 🔹 Quantum Teleportation
+* 🔹 Quantum Error Correction
+* 🔹 Shor's Algorithm
+* 🔹 Grover's Algorithm
+* 🔹 Quantum Phase Estimation
+* 🔹 Period Finding
 
 ---
 
@@ -178,42 +176,37 @@ Also exploring:
 <div align="center">
 
 ```text
-💡 IDEA
-
-  ↓
-
-🔍 EXPLORE
-
-  ↓
-
-🧪 EXPERIMENT
-
-  ↓
-
-💻 BUILD
-
-  ↓
-
-🐛 BREAK
-
-  ↓
-
-🔧 FIX
-
-  ↓
-
-🚀 SHIP
-
-  ↓
-
-🔁 REPEAT
+       💡 IDEA
+         │
+         ▼
+      🔍 EXPLORE
+         │
+         ▼
+      🧪 EXPERIMENT
+         │
+         ▼
+       💻 BUILD
+         │
+         ▼
+       🐛 BREAK
+         │
+         ▼
+       🔧 FIX
+         │
+         ▼
+       🚀 SHIP
+         │
+         ▼
+       🔁 REPEAT
 ```
 
 </div>
 
-I don't always start with a perfect plan.
+I don't usually start with a perfect plan.
 
-Most of the time it's simply **"what happens if I try this?"**
+Most of the time it's just:
+
+> **"What happens if I try this?"**
 
 That's usually where the fun starts.
 
@@ -243,7 +236,32 @@ That's usually where the fun starts.
 
 </div>
 
-I'm especially interested in AI systems that can **retrieve information, analyze it, reason over it, use tools, and collaborate with other agents** instead of simply generating one response.
+I'm mainly interested in AI systems that can **retrieve information, reason, use tools, analyze information, and work with other agents** instead of simply generating one response and stopping there.
+
+---
+
+# 🚀 What I Like Building
+
+Somewhere around:
+
+<div align="center">
+
+### `TECHNOLOGY × CREATIVITY × PRACTICALITY`
+
+</div>
+
+Could be:
+
+* 🌐 A full-stack web app
+* 🤖 An AI-powered tool
+* 🧠 An experimental agent system
+* 🎨 A clean and interactive interface
+* 📊 A data-driven application
+* 🛍️ An e-commerce platform
+* 🔐 An authentication system
+* 🧪 A random idea I just wanted to see working
+
+Doesn't need to be huge — a small project can teach more than a big plan that never leaves the whiteboard.
 
 ---
 
@@ -251,7 +269,7 @@ I'm especially interested in AI systems that can **retrieve information, analyze
 
 ## Multi-Agent AI Research Paper Summarization & Verification Platform
 
-A research-focused platform built around the idea of using specialized AI agents to help automate academic research.
+A research-focused platform exploring how multiple specialized AI agents can work together to support academic research.
 
 ```text
 📄 RESEARCH PAPER
@@ -280,54 +298,45 @@ A research-focused platform built around the idea of using specialized AI agents
 
 ---
 
-# 🚀 What I Like Building
-
-<div align="center">
-
-### `TECHNOLOGY × CREATIVITY × PRACTICALITY`
-
-</div>
-
-* 🌐 Full-stack web applications
-* 🤖 AI-powered applications
-* 🧠 Multi-agent systems
-* 🎨 Interactive interfaces
-* 📊 Data-driven applications
-* 🛍️ E-commerce platforms
-* 🔐 Authentication systems
-* 🧪 Experimental projects
-
-It doesn't have to be huge.
-
-Sometimes a small project teaches more than a big idea that never gets built.
-
----
-
 # 💻 Some Things I've Built
 
 ### 🧠 Multi-Agent AI Research Platform
 
 `Python` `LangGraph` `LLMs` `Multi-Agent Systems`
 
-An AI-powered research platform focused on retrieving, analyzing, summarizing, verifying and synthesizing academic papers.
+An AI-powered research platform focused on retrieving, analyzing, summarizing, verifying and synthesizing academic research papers.
+
+---
 
 ### 🛍️ Flawless Aura
 
 `Django` `Python` `HTML` `CSS` `JavaScript`
 
-A skincare e-commerce application featuring product management, shopping cart, discounts, checkout, authentication and payment integration.
+A skincare e-commerce application featuring:
+
+* 🛒 Shopping Cart
+* 💰 Discounted Products
+* 📦 Checkout & Orders
+* 🔐 User Authentication
+* 💳 Payment Integration
+* 🖼️ Product Management
+* 🗄️ Database Integration
+
+---
 
 ### 👨‍💼 Employee Record Management System
 
 `Django` `Python` `SQLite/PostgreSQL`
 
-A web application for managing employee information, education and experience records.
+A web application for managing employee details, education records, and experience records.
+
+---
 
 ### 🎓 Student Management System
 
 `Django` `Python` `HTML` `CSS` `JavaScript`
 
-A student-focused web application with authentication, database integration and CRUD functionality.
+A student-focused web application with authentication, database integration, and CRUD functionality.
 
 ---
 
@@ -335,15 +344,36 @@ A student-focused web application with authentication, database integration and 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BidhyaSulu13&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=06B6D4&text_color=ffffff&count_private=true&cache_seconds=3600" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=BidhyaSulu13&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=06B6D4&text_color=ffffff&count_private=true&cache_seconds=3600" height="170" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BidhyaSulu13&layout=compact&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=ffffff&cache_seconds=3600" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BidhyaSulu13&layout=compact&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=ffffff&cache_seconds=3600" height="170" alt="Top Languages" />
 
 </div>
 
 ---
 
-# 🌱 What's Next?
+# 🌌 Beyond the Screen
+
+<div align="center">
+
+```text
+CODE        →        CREATE        →        EXPLORE
+ │                      │                  │
+ ▼                      ▼                  ▼
+WEB                  DESIGN            TECHNOLOGY
+AI                   IDEAS             RESEARCH
+DATA                 BUILDING          EXPERIMENTS
+```
+
+</div>
+
+Still figuring out exactly where all this leads.
+
+Honestly, that's part of the fun.
+
+---
+
+# 👀 What's Next?
 
 **More building.**
 
@@ -353,7 +383,9 @@ A student-focused web application with authentication, database integration and 
 
 **More learning.**
 
-And hopefully more projects that make me look back and think:
+**More projects that start as an idea and somehow turn into something real.**
+
+And hopefully a lot of things I can look back on and think:
 
 <div align="center">
 
@@ -367,7 +399,11 @@ And hopefully more projects that make me look back and think:
 
 ### 🌑 Thanks for stopping by.
 
-*Built with curiosity • powered by caffeine • occasionally fixed by Stack Overflow ☕*
+*If something here caught your eye, feel free to explore my repositories.*
+
+<br>
+
+**Built with curiosity • powered by caffeine • occasionally fixed by Stack Overflow ☕**
 
 </div>
 ```
